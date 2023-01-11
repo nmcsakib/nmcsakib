@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [sakib008.github.io/My-Portfolio/](sakib008.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [sakib008.github.io/My-Portfolio/](nmcsakib.github.io/My-Portfolio/)
 
 - 📫 How to reach me **bksumon51@gmail.com**
 
