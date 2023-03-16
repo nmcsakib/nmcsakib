@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [nmcsakib.github.io/My-Portfolio/](nmcsakib.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nmcsakib.github.io/My-Portfolio/)
 
 - 🔭 I’m currently working at **Home**
 
