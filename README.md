@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **bksumon51@gmail.com**
  
-- 📫 How to reach me **https://www.facebook.com/sakib.sjs**
 
 - ⚡ Fun fact **I am not Funny**
 
